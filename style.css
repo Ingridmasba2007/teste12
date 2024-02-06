@@ -44,6 +44,10 @@ body{
 
 }
 
+.bloco1-2{
+    display: flex;
+}
+
 .textoescola{
     display: flex;
 }
