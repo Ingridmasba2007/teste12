@@ -39,6 +39,11 @@ body{
     
 }
 
+.bloco1{
+    display: flex;
+
+}
+
 .textoescola{
     display: flex;
 }
