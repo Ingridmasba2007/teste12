@@ -30,7 +30,7 @@
 }
 
 .corpo{
-    background-image: linear-gradient(rgb(181, 219, 255), rgb(22, 85, 143));
-    background-repeat:unset;
+    background-color: linear-gradient(rgb(181, 219, 255), rgb(22, 85, 143));
+    background-repeat:no-repeat;
     
 }
