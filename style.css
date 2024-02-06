@@ -21,5 +21,6 @@
 
 .lista-item{
     padding: 50px;
-    flex: end;
+    display: flex;
+    text-align: end;
 }
