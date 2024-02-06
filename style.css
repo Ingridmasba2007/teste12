@@ -5,3 +5,7 @@
 .coluna{
    display: flex; 
 }
+
+.lista{
+    display: flex;
+}
