@@ -39,6 +39,10 @@ body{
     
 }
 
+.textoescola{
+    display: flex;
+}
+
 .colegiofake{
     width: 700px;
 }
