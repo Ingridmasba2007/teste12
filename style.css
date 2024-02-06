@@ -16,7 +16,7 @@
 }
 .lista{
     display: flex;
-    margin-right: 30px;
+    text-align: end;
   
 }
 
