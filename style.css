@@ -6,7 +6,15 @@
    display: flex; 
 }
 
+.texto{
+    display: flex;
+}
+
 .lista{
     display: flex;
-    justify-content: flex-start;
+  
+}
+
+.lista-item{
+    padding: 50px;
 }
