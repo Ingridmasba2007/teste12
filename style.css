@@ -6,10 +6,9 @@
    display: flex; 
 }
 
-.texto{
+.cabecalho{
     display: flex;
 }
-
 .lista{
     display: flex;
   
