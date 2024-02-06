@@ -1,3 +1,4 @@
+
 .imagemparaguai{
     width: 125px;
 }
@@ -26,4 +27,8 @@
     display: flex;
     text-align: end;
  
+}
+
+.corpo{
+    background-color: aliceblue;
 }
