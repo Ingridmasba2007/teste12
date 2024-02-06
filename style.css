@@ -2,8 +2,9 @@
     width: 125px;
 }
 
-.coluna{
+.todo-cabecalho{
    display: flex; 
+   background-color: rgb(181, 219, 255);
 }
 
 .cabecalho{
