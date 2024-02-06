@@ -9,6 +9,10 @@
 .cabecalho{
     display: flex;
 }
+
+.texto{
+    margin-top: 30px ;
+}
 .lista{
     display: flex;
   
